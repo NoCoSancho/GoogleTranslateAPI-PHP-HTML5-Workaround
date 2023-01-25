@@ -1,5 +1,0 @@
-{
-    "require": {
-        "google/cloud-pubsub": "^1.11.1"
-    }
-}

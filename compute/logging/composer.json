@@ -1,5 +1,0 @@
-{
-    "require": {
-        "fluent/logger": "^1.0"
-    }
-}

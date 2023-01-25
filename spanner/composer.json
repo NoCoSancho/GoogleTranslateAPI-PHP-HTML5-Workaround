@@ -1,5 +1,0 @@
-{
-    "require": {
-        "google/cloud-spanner": "^1.54.0"
-    }
-}
